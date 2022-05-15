@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "id": "2",
+      "name": "Bex",
+      "number": 712701756,
+      "email": "bex@gmail.com",
+      "address": "Samarqand"
+    },
+    {
+      "name": "Sher",
+      "number": 998971304073,
+      "email": "sher@gmail.com",
+      "address": "Tashkent",
+      "id": "C7TlVTR"
+    }
+  ]
+}
