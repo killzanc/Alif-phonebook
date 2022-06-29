@@ -10,20 +10,12 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+## Go to 'server' directory 
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
-/**npm run serve
 cd server
-npm start**/
+````
+
+## Start a server
+```
+npm start
+```
